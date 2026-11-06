@@ -2,27 +2,15 @@
 {
   "licenses": [
     {
-      "name": "Ghost Utilities",
-      "ownerid": "OWNER_ID_001",
-      "secret": "SECRET_KEY_001",
+      "name": "H2K CORPORATION",
+      "ownerid": "tuui0reybK",
+      "secret": "afa44e0c8a6f32badc8859da0814d6d7c4b9000c445122c4ca8037c6a75a1d4c",
       "version": "1.0"
     },
     {
-      "name": "Ghost Premium",
-      "ownerid": "OWNER_ID_002",
-      "secret": "SECRET_KEY_002",
-      "version": "2.0"
-    },
-    {
-      "name": "Ghost Panel",
-      "ownerid": "OWNER_ID_003",
-      "secret": "SECRET_KEY_003",
-      "version": "1.5"
-    },
-    {
-      "name": "Ghost Client",
-      "ownerid": "OWNER_ID_004",
-      "secret": "SECRET_KEY_004",
+      "name": "Ghost Mods",
+      "ownerid": "spjyTYsVl9",
+      "secret": "aaeaa4b1b7251b8491775b9b5eed91c70566f2a362d414f9c7546526a5931d8e",
       "version": "1.0"
     }
   ]
