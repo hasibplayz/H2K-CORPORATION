@@ -1,4 +1,3 @@
-
 {
   "licenses": [
     {
@@ -11,6 +10,12 @@
       "name": "Ghost Mods",
       "ownerid": "spjyTYsVl9",
       "secret": "ae63591cf908f48b9f693072da124ff4e367e5ea90f20679ba13599420984f8c",
+      "version": "1.0"
+    },
+    {
+      "name": "H2K FREE",
+      "ownerid": "J1fFBfzsbC",
+      "secret": "b6b9cdaab50865597388c4c7f25c22755488ce162184d0f025ce750747ef101e",
       "version": "1.0"
     }
   ]
