@@ -7,9 +7,15 @@
       "version": "1.0"
     },
     {
-      "name": "Ghost Mods",
+      "name": "H2K AIMKILL",
       "ownerid": "spjyTYsVl9",
-      "secret": "ae63591cf908f48b9f693072da124ff4e367e5ea90f20679ba13599420984f8c",
+      "secret": "70465b7bea43270d7150f24a1d8fe3e715be0abfec514e777efb0140cc4df882",
+      "version": "1.0"
+    },
+    {
+      "name": "AUTO AIMKILL",
+      "ownerid": "2hHNM3m44i",
+      "secret": "9ba53a238b468b108cf481f2605de413f6b94f5221f61c570f1e3ba9d5a069f2",
       "version": "1.0"
     },
     {
